@@ -52,7 +52,7 @@ This project is a Virtual Assistant built using Python. It integrates various li
 
 **Clone the repository:**
 
-git clone https://github.com/garimachauhancoder/VirtualAI-Assistant
+git clone https://github.com/garimachauhancoder/Virtual-AI-Assistant
 
 **Navigate to the project directory:**
 
