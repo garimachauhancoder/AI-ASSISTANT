@@ -56,7 +56,7 @@ git clone https://github.com/garimachauhancoder/Virtual-AI-Assistant
 
 **Navigate to the project directory:**
 
-cd virtual-assistant
+cd virtual-ai-assistant
 
 **Install dependencies:**
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 Run the script using:
 
-python main.py
+**python main.py**
 
 ## **Future Enhancements**
 
