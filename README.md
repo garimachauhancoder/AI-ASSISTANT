@@ -2,7 +2,7 @@
 
 This project is a Virtual Assistant built using Python. It integrates various libraries and tools to perform tasks such as speech recognition, text-to-speech conversion, web automation, and general task management.
 
-### **Features**
+## **Features**
 
 - **Speech Recognition:** Converts spoken language into text.
 
@@ -18,13 +18,13 @@ This project is a Virtual Assistant built using Python. It integrates various li
 
 - **News Updates:** Retrieves the latest news from online sources.
 
-### **Technologies Used**
+## **Technologies Used**
 
 **Programming Language**
 
 - **Python**
 
-### **Libraries & Tools**
+## **Libraries & Tools**
 
 - **speech_recognition:** Converts spoken words into text.
 
