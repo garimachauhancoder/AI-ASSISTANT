@@ -1,4 +1,4 @@
-## **Virtual Assistant**
+# **Virtual AI-Assistant**
 
 This project is a Virtual Assistant built using Python. It integrates various libraries and tools to perform tasks such as speech recognition, text-to-speech conversion, web automation, and general task management.
 
@@ -48,7 +48,7 @@ This project is a Virtual Assistant built using Python. It integrates various li
 
 - **json:** Handles structured data parsing.
 
-### **Installation**
+## **Installation**
 
 **Clone the repository:**
 
@@ -62,13 +62,13 @@ cd virtual-assistant
 
 pip install -r requirements.txt
 
-### **Usage**
+## **Usage**
 
 Run the script using:
 
 python main.py
 
-### **Future Enhancements**
+## **Future Enhancements**
 
 - **Integration with AI-powered chat models.**
 
